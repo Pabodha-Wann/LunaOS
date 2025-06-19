@@ -6,7 +6,6 @@ Welcome to **LunaOS** – a simple, 16-bit operating system built from scratch u
 
 LunaOS is a lightweight, bootable operating system that runs directly on a virtual machine using QEMU. It provides a minimal shell interface where users can interact with basic commands to view hardware-related information retrieved through BIOS services.
 
-Whether you're an OS development beginner or curious about how real-mode assembly works, LunaOS is a great place to start.
 
 ## Features
 
@@ -14,7 +13,7 @@ Whether you're an OS development beginner or curious about how real-mode assembl
 * Shows detailed hardware info (CPU, memory, serial ports, etc.)
 * Command-line interface for basic interaction
 * Fully bootable using QEMU and a floppy image
-* Lightweight and simple codebase for learning
+
 
 ## Supported Commands
 
@@ -33,10 +32,12 @@ Whether you're an OS development beginner or curious about how real-mode assembl
 ## Screenshots
 
 1. System information display after typing `info`
-   
+   ![Screenshot 2025-06-19 161559](https://github.com/user-attachments/assets/4dbdd4bb-3a26-4fc3-b17b-75e00fd61952)
+
 
 2. Command help output after typing `help`
-   
+   ![Screenshot 2025-06-19 161655](https://github.com/user-attachments/assets/750ed01d-3b75-437a-9af4-9ae95e423b4c)
+
 
 ## How to Build and Run
 
