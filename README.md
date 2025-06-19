@@ -61,22 +61,5 @@ Steps:
 
 That’s it! You’ll see the welcome message and command prompt from LunaOS.
 
-## Why LunaOS?
-
-* To explore low-level OS concepts in a real-mode environment
-* To learn how operating systems interface with BIOS services
-* To gain hands-on experience with Assembly language
-* To build something from scratch that actually boots and runs!
-
-## About the Author
-
-LunaOS is developed by **Pabodha Wanniarachchi**, a passionate software engineering undergraduate with an interest in operating systems, low-level programming, and system architecture.
-
-Contact:
-GitHub – [https://github.com/Pabodha-Wann](https://github.com/Pabodha-Wann)
-
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this code with proper credit.
 
 
